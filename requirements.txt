@@ -1,2 +1,8 @@
 xgboost
 scikit-learn
+notebook
+matplotlib
+seaborn
+numpy
+pandas
+textwrap
